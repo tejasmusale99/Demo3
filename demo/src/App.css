@@ -1,0 +1,16 @@
+.nav{
+  background-color: cadetblue;
+  display: flex;
+  list-style-type: none;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 70px;
+}
+li{
+  color: white;
+  cursor: pointer;
+  font-size: 30px;
+  font-weight:bold;
+  font-style:inherit;
+}
